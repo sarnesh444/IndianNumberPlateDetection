@@ -45,8 +45,7 @@ Here are 3 steps to contributing.
 2. Commit your changes.
 3. Create a new Pull Request and link an [issue](https://github.com/sarnesh444/IndianNumberPlateDetection/issues/new) with it.
 
-## Meta [![GitHub followers](https://img.shields.io/github/followers/sarnesh444.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sarnesh444?tab=followers)
-
+## Meta 
 
 | Name | Github | LinkedIn | E-mail | Phone|
 | --- | --- | --- | --- | --- |
